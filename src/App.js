@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import WeatherData from './Components/WeatherData';
+import WeatherData from './Components/WeatherLocation/Index';
 
 function App() {
   return (

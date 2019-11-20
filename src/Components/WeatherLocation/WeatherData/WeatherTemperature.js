@@ -6,7 +6,7 @@ import {
     SUN,
     RAIN,
     SNOW,
-    WINDY} from '../../../constants/Weathers';
+    WINDY} from './../../../constants/Weathers';
 
 import PropTypes from 'prop-types';
 

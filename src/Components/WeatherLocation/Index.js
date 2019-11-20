@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import Location from './Location';
 import WeatherData from './WeatherData';
-import PropTypes from 'prop-types';
+//import PropTypes from 'prop-types';
 
 export default class WaterLocation extends Component {
 
